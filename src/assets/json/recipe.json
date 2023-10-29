@@ -1,0 +1,40 @@
+{
+    "steps": [
+        {
+            "id": 1,
+            "stepDesc": "1. Place chicken thighs in a bowl or gallon-sized Ziploc bag, set aside.\n\n 2. Combine remaining ingredients in medium-sized mixing bowl and mix until sugar dissolves.",
+            "stepHeat": "none",
+            "stepTimer": "none",
+            "image": "./images/Teriyaki-Chicken-1.jpg"
+        }, 
+        {
+            "id": 2,
+            "stepDesc": "1. Pour marinade over chicken, press air out of bag, and seal tightly (or cover the bowl and make it as air-tight as possible).\n\n 2. Refrigerate overnight (or at least 4 hours).\n\n 3. Remove chicken from bag and set aside.\n\n Do NOT discard marinade.",
+            "stepHeat": "none",
+            "stepTimer": "4 Hours+",
+            "image": "./images/Teriyaki-Chicken-2.jpg"
+        },
+        {
+            "id": 3,
+            "stepDesc": "1. In a medium saucepan, bring marinade to a simmer and cook for 5-10 minutes.",
+            "stepHeat": "Stove, medium heat",
+            "stepTimer": "5-10 Minutes",
+            "image": "./images/Teriyaki-Chicken-3.jpg"
+        },
+        {
+            "id": 4,
+            "stepDesc": "1. Place chicken on grill and brush some of the hot marinade over the top (do not place brush back in marinade after brushing the chicken).\n\n 2. Continue to grill chicken until done (165 degrees internal temp).",
+            "stepHeat": "Grill",
+            "stepTimer": "none",
+            "image": "./images/Teriyaki-Chicken-4.jpg"
+        },
+        {
+            "id": 5,
+            "stepDesc": "1. Place cooked chicken in a baking dish and pour remaining hot teriyaki marinade over the top.\n\n 2. Serve immediately.",
+            "stepHeat": "none",
+            "stepTimer": "none",
+            "image": "./images/Teriyaki-Chicken-5.jpg"
+        }
+    ]
+}
+

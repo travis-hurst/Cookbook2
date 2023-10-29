@@ -1,0 +1,97 @@
+.table {
+  color: #333;
+  font-size: 22px !important;
+  font-family: Georgia;
+}
+
+th {
+  font-weight: bold;
+}
+
+strong {
+  padding-left: 65px;
+}
+
+img .img-center {
+  float: right !important;
+  justify-content: right !important;
+  cursor: pointer;
+}
+
+.table caption {
+  color: #333;
+  font-size: 40px !important;
+  font-family: Georgia;
+  padding: 0px 0px 0px 110px !important;
+  border: 3px solid transparent;
+  border-bottom-color: #333;
+  background-color: #e8f0e3;
+}
+
+.search-page-header {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  font-family: Georgia; 
+  font-weight: bold;
+  color: #333;
+  font-size: 60px !important;
+  text-align: left;
+}
+
+.form-select {
+  width: 25% !important;
+  max-width: 30% !important;
+  float: right;
+  border: 2px solid transparent;
+  border-color: #333;
+}
+
+/* Add a black background color to the top navigation */
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,#ffb366 0,#ffb366 100%) !important; /* override background image gradient w/ flat color */
+    overflow: hidden;
+    border-bottom: 2px solid transparent;
+    border-bottom-color: #423f3f !important;
+    border-top: 2px solid transparent;
+    border-top-color: #423f3f !important;
+}
+
+.navbar-header {
+  background-color: #ffb366;
+  overflow: hidden;
+  border-bottom: 2px solid transparent;
+  border-bottom-color: #423f3f !important;
+  border-top: 2px solid transparent;
+  border-top-color: #423f3f !important;
+}
+
+.topnav2 bg-body-tertiary {
+  padding-bottom: none !important;
+  padding-top: none !important;
+  position: fixed;
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  color: #333;
+  text-align: center;
+  font-weight: bold;
+  padding: 6px 10px 8px 10px !important;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: #bfd4cd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #ffb366;
+  color: white;
+}
