@@ -1,7 +1,7 @@
 import React from 'react'
 import Navigate from '../components/Navigate'
 import { useNavigate } from "react-router-dom";
-import './HomePage.css'
+import './Homepage.css'
 
 function HomePage() {
 
